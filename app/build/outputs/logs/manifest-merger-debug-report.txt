@@ -1,190 +1,190 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\920d17998941be55513d28e89027160e\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:17:1-31:12
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
 	package
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:3:5-37
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:1-35:12
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:2:11-69
 uses-feature#android.hardware.bluetooth
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:8:5-62
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:8:5-62
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:8:19-60
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:8:19-60
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:9:5-67
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:9:5-67
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:9:22-65
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:9:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:10:5-73
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:10:5-73
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:10:22-71
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:10:22-71
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:11:5-80
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:11:5-80
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:11:22-78
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:11:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:12:5-78
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:12:5-78
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.BLUETOOTH_PRIVILEGED
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:13:5-78
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:13:5-78
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:13:22-76
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:13:22-76
 application
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:16:5-33:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\920d17998941be55513d28e89027160e\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\920d17998941be55513d28e89027160e\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:25:5-29:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:24:5-28:19
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:24:5-28:19
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:16:5-33:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:24:5-28:19
 	android:supportsRtl
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:21:9-35
 	android:label
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:19:9-41
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:19:9-41
 	android:roundIcon
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:20:9-54
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:20:9-54
 	android:icon
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:18:9-43
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:18:9-43
 	android:allowBackup
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:17:9-35
 	android:theme
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:22:9-40
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:22:9-40
 activity#com.example.maelle.mdp.MainActivity
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:9-29:20
 	android:launchMode
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:23:48-79
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:48-79
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:23:19-47
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:24:13-28:29
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.example.maelle.mdp.Connect
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:30:9-84
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:9-84
 	android:windowSoftInputMode
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:30:43-82
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:43-82
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:30:19-42
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:19-42
 activity#com.example.maelle.mdp.Reconfigure
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:31:9-48
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:31:9-48
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:31:19-46
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:31:19-46
 service#com.example.maelle.mdp.BluetoothConnectionService
-ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:32:9-63
+ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:32:9-63
 	android:name
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml:32:18-60
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:32:18-60
 uses-sdk
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\920d17998941be55513d28e89027160e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\920d17998941be55513d28e89027160e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:21:5-23:58
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:20:5-22:41
-MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:20:5-22:41
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\20007ed3e9bf2a2b3c8e8034ac85ae30\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\darks\StudioProjects\Mdp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\9e04dd23e571cec7d1672ff4963f6ae8\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\785889135c60d320c1f46b4b386bab76\AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\999664be3a6b78e549e6c282bc4835e3\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\a3da9b30708c4b8025a61f064eee5314\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5d60563483f67fb1b6f5d8e7de965d03\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\d6f5c6c51487bd8d59d025d0e75a8a96\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\6aaca206840ee33cc9c4a621bba33b2e\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\acf28204e00aae190b3d7ad0678ad90d\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0ffb827c8eff4299fa7b9dc8773db933\transformed\animated-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\00fa6a7d6d03de76e8f641052d83475b\transformed\support-vector-drawable-26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\36291b505ca9de49fe0ad70dfae37088\transformed\support-v4-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\48a46c27b0d9b79f33541fa222ce4db4\transformed\support-media-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\0059f7b62e7c6089b2057a082a6ae2b2\transformed\support-fragment-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\d8836074150c7aa7b5c9f6af8e2a66fb\transformed\support-core-utils-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\402a899b584fcf5c55e9845621aa965a\transformed\support-core-ui-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\598bac8afb35d8d15acdb577722154df\transformed\support-compat-26.1.0\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\b41c5ffcef547ca36413154c0b385669\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
 meta-data#android.arch.lifecycle.VERSION
-ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:25:9-27:47
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
 	android:value
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:27:13-44
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
 	android:name
-		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\darks\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea1d55e87a637389a5eb1aa2412d1ead\AndroidManifest.xml:26:13-58
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58

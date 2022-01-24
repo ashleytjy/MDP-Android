@@ -61,12 +61,12 @@ public class MazeView extends View {
         directionPaint.setColor(Color.BLACK);
 
         //COLOR FOR WAY POINT
-        waypointPaint = new Paint();
-        waypointPaint.setColor(Color.YELLOW);
+//        waypointPaint = new Paint();
+//        waypointPaint.setColor(Color.YELLOW);
 
         //COLOR FOR EXPLORED BUT EMPTY
-        emptyPaint = new Paint();
-        emptyPaint.setColor(Color.WHITE);
+//        emptyPaint = new Paint();
+//        emptyPaint.setColor(Color.WHITE);
 
         //COLOR FOR VIRTUAL WALL
         virtualWallPaint = new Paint();
@@ -77,13 +77,13 @@ public class MazeView extends View {
         obstaclePaint.setColor(Color.BLACK);
 
         //COLOR FOR UNEXPLORED PATH
-        unexploredPaint = new Paint();
-        unexploredPaint.setColor(Color.GRAY);
-
-        gridNumberPaint = new Paint();
-        gridNumberPaint.setColor(Color.BLACK);
-        gridNumberPaint.setTextSize(18);
-        gridNumberPaint.setTypeface(Typeface.DEFAULT_BOLD);
+//        unexploredPaint = new Paint();
+//        unexploredPaint.setColor(Color.GRAY);
+//
+//        gridNumberPaint = new Paint();
+//        gridNumberPaint.setColor(Color.BLACK);
+//        gridNumberPaint.setTextSize(18);
+//        gridNumberPaint.setTypeface(Typeface.DEFAULT_BOLD);
 
         //COLOR FOR FASTEST PATH
         ftpPaint = new Paint();
@@ -133,110 +133,112 @@ public class MazeView extends View {
                     invalidate();
 
                     //SEND START POINT COORDINATES TO RPI
-                    //MainActivity.sendStartPoint(robotCols,inverseCoordinates(coordinates[1]));
+                    //TODO: Implement sendStartPoint for RPI
+//                    MainActivity.sendStartPoint(robotCols,inverseCoordinates(coordinates[1]));
 
                 }
             }
-        } else if (setWayPointPosition) {
+        }
+//        else if (setWayPointPosition) {
+//
+//            //ENSURE ONTOUCH IS WITHIN THE MAZE
+//            if (coordinates[0] != -1 && coordinates[1] != -1 && MainActivity.connectedDevice != null) {
+//
+//                wayPointCols = coordinates[0];
+//                wayPointRow = coordinates[1];
+//                invalidate();
+//                Log.d(TAG,"setwaypoint before !!" + setWayPointPosition);
 
-            //ENSURE ONTOUCH IS WITHIN THE MAZE
-            if (coordinates[0] != -1 && coordinates[1] != -1 && MainActivity.connectedDevice != null) {
-
-                wayPointCols = coordinates[0];
-                wayPointRow = coordinates[1];
-                invalidate();
-                Log.d(TAG,"setwaypoint before !!" + setWayPointPosition);
-
-                int wayPoint[] = getWaypoint();
+//                int wayPoint[] = getWaypoint();
 
                 //SEND WAY POINT TO RPI
-                String wpCoordinates = "Algorithm|Android|SetWayPoint|" + wayPoint[0] + "," + wayPoint[1];
-                byte[] bytes = wpCoordinates.getBytes(Charset.defaultCharset());
-                BluetoothChat.writeMsg(bytes);
+//                String wpCoordinates = "Algorithm|Android|SetWayPoint|" + wayPoint[0] + "," + wayPoint[1];
+//                byte[] bytes = wpCoordinates.getBytes(Charset.defaultCharset());
+//                BluetoothChat.writeMsg(bytes);
 
-                Toast.makeText(getContext(), "WayPoint Sent!!",
-                        Toast.LENGTH_SHORT).show();
-
-                setWayPointPosition = false;
-                Log.d(TAG,"setwaypoint after !!" + setWayPointPosition);
-
-
-            }
+//                Toast.makeText(getContext(), "WayPoint Sent!!",
+//                        Toast.LENGTH_SHORT).show();
+//
+//                setWayPointPosition = false;
+//                Log.d(TAG,"setwaypoint after !!" + setWayPointPosition);
+//
+//
+//            }
             else {
                 Toast.makeText(getContext(), "Please Connect to a Device First!!",
                         Toast.LENGTH_SHORT).show();
                 setWayPointPosition = false;
 
             }
-        }
+//        }
 
 
         return super.onTouchEvent(event);
 
     }
 
-    //DRAW SHAPES ON CANVAS
-    @Override
-    protected void onDraw(Canvas canvas) {
-        super.onDraw(canvas);
-
-        Log.d(TAG,"Repainting now!!");
-
-        //BACKGROUND COLOR OF CANVAS
-        canvas.drawColor(Color.WHITE);
-
-        //WIDTH OF THE CANVAS
-        int width = getWidth();
-        //HEIGHT OF THE CANVAS
-        int height = getHeight();
-
-        //CALCULATE MARGIN SIZE FOR THE CANVAS
-        hMargin = (width - COLS * cellSize) / 2;
-        vMargin = (height - ROWS * cellSize) / 2;
-
-        //CALCULATE THE CELLSIZE BASED ON THE DIMENSIONS OF THE CANVAS
-        if (width / height < COLS / ROWS) {
-            cellSize = width / (COLS + 1);
-        } else {
-            cellSize = height / (ROWS + 1);
-        }
-
-        //CREATE CELL ONCE
-        if(!createCellStatus) {
-            //CREATE CELL COORDINATES
-            Log.d(TAG,"CREATE CELL");
-            createCell();
-            createCellStatus = true;
-        }
-
-        //SET THE MARGIN IN PLACE
-        canvas.translate(hMargin, vMargin);
-
-        //DRAW BORDER FOR EACH CELL
-        drawBorder(canvas);
-
-        //DRAW EACH INDIVIDUAL CELL
-        drawCell(canvas);
-
-        //DRAW GRID NUMBER
-        drawGridNumber(canvas);
-
-        //DRAW ENDPOINT ON MAZE
-        drawEndPoint(canvas);
-
-        //DRAW ROBOT ON MAZE
-        drawRobot(canvas);
-
-        setRobotPostition = false;
-
-        //DRAW WAY POINT ON MAZE
-        drawWayPoint(canvas);
-
-        Log.d(TAG, "Drawing Way Point!!");
-
-
-
-    }
+//    //DRAW SHAPES ON CANVAS
+//    @Override
+//    protected void onDraw(Canvas canvas) {
+//        super.onDraw(canvas);
+//
+//        Log.d(TAG,"Repainting now!!");
+//
+//        //BACKGROUND COLOR OF CANVAS
+//        canvas.drawColor(Color.WHITE);
+//
+//        //WIDTH OF THE CANVAS
+//        int width = getWidth();
+//        //HEIGHT OF THE CANVAS
+//        int height = getHeight();
+//
+//        //CALCULATE MARGIN SIZE FOR THE CANVAS
+//        hMargin = (width - COLS * cellSize) / 2;
+//        vMargin = (height - ROWS * cellSize) / 2;
+//
+//        //CALCULATE THE CELLSIZE BASED ON THE DIMENSIONS OF THE CANVAS
+//        if (width / height < COLS / ROWS) {
+//            cellSize = width / (COLS + 1);
+//        } else {
+//            cellSize = height / (ROWS + 1);
+//        }
+//
+//        //CREATE CELL ONCE
+//        if(!createCellStatus) {
+//            //CREATE CELL COORDINATES
+//            Log.d(TAG,"CREATE CELL");
+//            createCell();
+//            createCellStatus = true;
+//        }
+//
+//        //SET THE MARGIN IN PLACE
+//        canvas.translate(hMargin, vMargin);
+//
+//        //DRAW BORDER FOR EACH CELL
+//        drawBorder(canvas);
+//
+//        //DRAW EACH INDIVIDUAL CELL
+//        drawCell(canvas);
+//
+//        //DRAW GRID NUMBER
+//        drawGridNumber(canvas);
+//
+//        //DRAW ENDPOINT ON MAZE
+//        drawEndPoint(canvas);
+//
+//        //DRAW ROBOT ON MAZE
+//        drawRobot(canvas);
+//
+//        setRobotPostition = false;
+//
+//        //DRAW WAY POINT ON MAZE
+//        drawWayPoint(canvas);
+//
+//        Log.d(TAG, "Drawing Way Point!!");
+//
+//
+//
+//    }
 
     //DRAW ENDPOINT CELL
     private void drawEndPoint(Canvas canvas) {
@@ -252,18 +254,19 @@ public class MazeView extends View {
     }
 
 
-    //DRAW INDIVIDUAL CELL
-    private void drawCell(Canvas canvas){
-
-        for (int x = 0; x < COLS; x++) {
-            for (int y = 0; y < ROWS; y++) {
-
-                //DRAW EACH INDIVIDUAL CELL
-                canvas.drawRect(cells[x][y].startX,cells[x][y].startY,cells[x][y].endX,cells[x][y].endY,cells[x][y].paint);
-
-            }
-        }
-    }
+//    //DRAW INDIVIDUAL CELL
+//    //TODO:May not be used
+//    private void drawCell(Canvas canvas){
+//
+//        for (int x = 0; x < COLS; x++) {
+//            for (int y = 0; y < ROWS; y++) {
+//
+//                //DRAW EACH INDIVIDUAL CELL
+//                canvas.drawRect(cells[x][y].startX,cells[x][y].startY,cells[x][y].endX,cells[x][y].endY,cells[x][y].paint);
+//
+//            }
+//        }
+//    }
 
     //DRAW BORDER FOR EACH CELL
     private void drawBorder(Canvas canvas){
@@ -460,9 +463,9 @@ public class MazeView extends View {
     }
 
     //RETURN WAYPOINT FOR BUTTON CLICK
-    public int[] getWaypoint(){
-        return new int[] {wayPointCols, inverseCoordinates(wayPointRow)};
-    }
+//    public int[] getWaypoint(){
+//        return new int[] {wayPointCols, inverseCoordinates(wayPointRow)};
+//    }
 
     //INVERT ROWS COORDINATES TO START FROM BOTTOM
     private int inverseCoordinates(int y){

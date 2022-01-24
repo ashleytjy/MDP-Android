@@ -1,0 +1,95 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.maelle.mdp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml
+10
+11<!--     ADDED PERMISSION FOR BLUETOOTH CONNECTIVITY -->
+12    <uses-feature android:name="android.hardware.bluetooth" />
+12-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:8:5-62
+12-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:8:19-60
+13
+14    <uses-permission android:name="android.permission.BLUETOOTH" />
+14-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:9:5-67
+14-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:9:22-65
+15    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+15-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:10:5-73
+15-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:10:22-71
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:11:5-80
+16-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:12:5-78
+17-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.BLUETOOTH_PRIVILEGED" />
+18-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:13:5-78
+18-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:13:22-76
+19
+20    <application
+20-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:16:5-33:19
+21        android:allowBackup="true"
+21-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:17:9-35
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:18:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:19:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:20:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:21:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:22:9-40
+29        <activity
+29-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:9-29:20
+30            android:name="com.example.maelle.mdp.MainActivity"
+30-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:19-47
+31            android:launchMode="singleTask" >
+31-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:23:48-79
+32            <intent-filter>
+32-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:24:13-28:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:25:17-69
+33-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:25:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:27:17-77
+35-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:27:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:9-84
+39            android:name="com.example.maelle.mdp.Connect"
+39-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:19-42
+40            android:windowSoftInputMode="adjustPan" />
+40-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:30:43-82
+41        <activity android:name="com.example.maelle.mdp.Reconfigure" />
+41-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:31:9-48
+41-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:31:19-46
+42
+43        <service android:name="com.example.maelle.mdp.BluetoothConnectionService" />
+43-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:32:9-63
+43-->C:\Users\Ashley T\OneDrive\Desktop\MDP-Android\app\src\main\AndroidManifest.xml:32:18-60
+44
+45        <meta-data
+45-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:26:9-28:38
+46            android:name="android.support.VERSION"
+46-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:27:13-51
+47            android:value="26.1.0" />
+47-->[com.android.support:appcompat-v7:26.1.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\fcae1786dd322e72834643dceb78b7a6\transformed\appcompat-v7-26.1.0\AndroidManifest.xml:28:13-35
+48        <meta-data
+48-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+49            android:name="android.arch.lifecycle.VERSION"
+49-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
+50            android:value="27.0.0-SNAPSHOT" />
+50-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\Ashley T\OneDrive\Desktop\Temi\sdk-master\sdk-master\.gradle\caches\transforms-3\c6335d5d821ceca9b147ae358bc39bdd\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+51    </application>
+52
+53</manifest>
